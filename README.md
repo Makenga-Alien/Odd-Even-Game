@@ -1,4 +1,3 @@
-# OddEven-Game
 # Odd or Even Game
 
 ## Description
